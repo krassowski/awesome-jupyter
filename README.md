@@ -96,6 +96,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [toc](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
 - [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
 - [voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
+- [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for jumping to the definition of variables/functions in notebooks and in the file editor.
 
 ## Testing
 
